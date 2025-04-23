@@ -101,5 +101,6 @@ git merge feature-branch
 ## 📚 More Info
 
 - Git Documentation: [https://git-scm.com/doc](https://git-scm.com/doc)  
-- GitHub: [https://github.com/git/git](https://github.com/git/git)  
+- GitHub: [https://github.com/git/git](https://github.com/git/git)
+- Git CLI Docs: https://git-scm.com/docs
 - Run `git --help` or `man git` for additional commands and options
